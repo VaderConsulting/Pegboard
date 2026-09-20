@@ -1,6 +1,6 @@
 # Pegboard
 
-VB6 working copy of `Pegboard` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Pegboard. Output: `Pegboard.exe`. `VersionCompanyName`: Chips, Bits and Bytes. Contains 2 project files.
+Chips, Bits and Bytes / D. Robinson VB6 Pegboard (`Pegboard.exe`, © 1998): personnel location board loaded from `locations.txt` / `personnel.txt`, with leave/on-off, messages, print, pennant, and barcode forms. Open `Pegboard.vbp` in the VB6 IDE.
 
 **Source last updated:** 1998-06-01 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
