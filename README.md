@@ -30,7 +30,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Pegboard`.
+Working copy from my Historical Dev folder `VB/Old/Pegboard`.
 Company names in project files: Allen Allegretto, Chips, Bits and Bytes.
 
 ## License
