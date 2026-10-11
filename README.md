@@ -35,4 +35,4 @@ Company names in project files: Allen Allegretto, Chips, Bits and Bytes.
 
 ## License
 
-MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
+MIT © 2026 Vader Consulting for Dave Robinson's code. See `LICENSE`.
